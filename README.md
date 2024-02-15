@@ -9,3 +9,5 @@ Here are some interactive maps I made showing Canadian census data for Richmond,
 These were all downloaded from the Government of Canada website. I didn't put them in GitHub because the file size is too large.
 
 To get the code working, you will probably want to download these files and put them in the directory too.
+
+Unfortunely, the interactive maps don't show up in the GitHub preview.
